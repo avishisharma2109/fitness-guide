@@ -1,0 +1,28 @@
+body{
+  font-width:bolder;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  align-items:center;
+  height:750px;
+  background: linear-gradient(150deg, #000000, #434343);
+  justify-content:center;
+}
+h1,h2,h3,p{
+  color:#FFD700;
+}
+summary,ul,a{
+  color:#ADFF2F;
+}
+.workout-whole{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  gap: 80px;
+}
+p,ul{
+  text-align:left;
+}
+.specific:hover{
+  color:pink
+}
