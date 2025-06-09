@@ -26,3 +26,7 @@ p,ul{
 .specific:hover{
   color:pink
 }
+ul li {
+  margin-bottom: 8px;
+}
+
