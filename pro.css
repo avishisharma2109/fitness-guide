@@ -18,7 +18,7 @@ summary,ul,a{
   display: flex;
   flex-wrap: wrap;
   justify-content:center;
-  gap: 80px;
+  gap: 150px;
 }
 p,ul{
   text-align:left;
